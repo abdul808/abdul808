@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi I'm Abdul Hadi 👋
 
 - 🔭 I’m currently working on Ecommerce Mobile App
 - 🌱 I’m currently learning React Native
