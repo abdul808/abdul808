@@ -7,4 +7,4 @@
 
 Languages and Tools:
 
-HTML5 CSS3 JavaScript React WordPress
+HTML5 JavaScript React WordPress
